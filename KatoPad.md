@@ -66,4 +66,4 @@ Right now you should see two rooms; they are very special.
 
 * * *
 
-Psst, this document is written in Markdown, you can toggle it on and off by hovering at the top of the message and clicking the Markdown putton. Give it a try :)
+Psst, this document is written in Markdown, you can toggle it on and off by hovering at the top of the message and clicking the Markdown button. Give it a try :)
